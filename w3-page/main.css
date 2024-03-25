@@ -1,0 +1,10 @@
+main {
+  display: felx;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-section {
+  background-color: #f44336;
+}

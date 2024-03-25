@@ -1,0 +1,36 @@
+.desc,
+.quote,
+.photo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.quote {
+background-color: #F1F1F1;
+border-left: solid;
+border-left-color: #CCCCCC;
+border-left-width: 4px;
+}
+
+.quote_p{
+    margin: 10px 20px;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.quote p {
+    margin: 10px 20px;
+}
+
+.author {
+    font-weight: 300;
+    margin-left: 20px;
+}
+.title {
+ font-weight: 600;   
+}

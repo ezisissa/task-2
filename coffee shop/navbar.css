@@ -1,0 +1,14 @@
+.navbar{
+    background-color: black !important;
+}
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 15px 0px;
+}
+
+.list-item a {
+    color: white;
+    text-decoration: none;
+}

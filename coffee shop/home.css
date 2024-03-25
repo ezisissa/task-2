@@ -1,0 +1,33 @@
+.home {
+    display: flex;
+    height: 600px;
+    position: relative;
+    background-image: url('./img/coffeehouse.jpg');
+}
+
+.headline {
+    position: absolute;
+    left: 47%;
+    top: 30%;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+}
+.time {
+    position:absolute;
+    left: 10px;
+    bottom: 15px;
+    color: white;
+    font-size: 12px;
+    background-color: black;
+    padding: 2px 8px;
+}
+
+.open-time {
+    position: absolute;
+    right: 10px;
+    bottom:15px;
+    color: white;
+    font-size: 12px;
+    padding: 2px 8px;
+}

@@ -1,0 +1,14 @@
+.fyi {
+    color: white;
+    background-color: black;
+    padding: 2px 6px;
+}
+
+.send {
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 8px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
